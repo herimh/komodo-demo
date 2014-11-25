@@ -1,0 +1,4 @@
+komodo_demo:
+    resource: "@KomodoDemoBundle/Resources/config/routing.yml"
+    prefix:   /
+
