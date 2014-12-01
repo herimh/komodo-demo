@@ -1,7 +1,4 @@
-parameters:
-#    komodo_demo.example.class: Komodo\DemoBundle\Example
-
 services:
 #    komodo_demo.example:
-#        class: %komodo_demo.example.class%
+#        class: Komodo\DemoBundle\Example
 #        arguments: [@service_id, "plain_value", %parameter%]

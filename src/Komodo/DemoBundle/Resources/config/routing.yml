@@ -1,7 +1,3 @@
-komodo_demo:
-    resource: "@KomodoDemoBundle/Controller/"
-    type:     annotation
-
-#komodo_demo_homepage:
-#    path:     /hello/{name}
-#    defaults: { _controller: KomodoDemoBundle:Default:index }
+komodo_demo_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: KomodoDemoBundle:Default:index }
